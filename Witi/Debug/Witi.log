@@ -1,0 +1,6 @@
+﻿  Wczytaj.cpp
+  Witi.cpp
+c:\users\michał\source\repos\witi\witi\witi.cpp(61): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\michał\source\repos\witi\witi\witi.cpp(79): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Witi.vcxproj -> C:\Users\Michał\source\repos\Witi\Debug\Witi.exe
